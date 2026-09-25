@@ -4,6 +4,7 @@
 <p align="center">
   📍 Karachi, Pakistan &nbsp;•&nbsp;
   🌐 <a href="https://thetrillioniar.me">thetrillioniar.me</a> &nbsp;•&nbsp;
+  💼 <a href="https://abdulhadi-sodeom.netlify.app/">Portfolio</a> &nbsp;•&nbsp;
   🤗 <a href="https://huggingface.co/thetrillioniar">HuggingFace</a>
 </p>
 
@@ -21,18 +22,12 @@
 
 `Python` `FastAPI` `PyTorch` `Transformers` `LLaMA-Factory` `TRL` `DeepSpeed` `Docker` `Ubuntu/Linux` `MCP` `OpenAI SDK`
 
-### 🏆 GitHub Trophies
+### 📊 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdulhadi446&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
-### 📊 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulhadi446&theme=redical" />
+  <img src="https://raw.githubusercontent.com/Abdulhadi446/Abdulhadi446/output/github-contribution-grid-snake.svg" />
 </p>
 
 ### 📫 Reach me
 
-[thetrillioniar.me](https://thetrillioniar.me) &nbsp;|&nbsp; [HuggingFace: thetrillioniar](https://huggingface.co/thetrillioniar)
+[thetrillioniar.me](https://thetrillioniar.me) &nbsp;|&nbsp; [Portfolio](https://abdulhadi-sodeom.netlify.app/) &nbsp;|&nbsp; [HuggingFace: thetrillioniar](https://huggingface.co/thetrillioniar)
