@@ -21,13 +21,18 @@
 
 `Python` `FastAPI` `PyTorch` `Transformers` `LLaMA-Factory` `TRL` `DeepSpeed` `Docker` `Ubuntu/Linux` `MCP` `OpenAI SDK`
 
-### 📈 GitHub Stats
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdulhadi446&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulhadi446&layout=compact&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdulhadi446&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+### 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulhadi446&theme=redical" />
 </p>
 
 ### 📫 Reach me
 
-[thetrillioniar.me](https://thetrillioniar.me) &nbsp;|&nbsp; [HuggingFace: thetrillioniar](https://huggingface.co/thetrillioniar) 
+[thetrillioniar.me](https://thetrillioniar.me) &nbsp;|&nbsp; [HuggingFace: thetrillioniar](https://huggingface.co/thetrillioniar)
