@@ -22,12 +22,6 @@
 
 `Python` `FastAPI` `PyTorch` `Transformers` `LLaMA-Factory` `TRL` `DeepSpeed` `Docker` `Ubuntu/Linux` `MCP` `OpenAI SDK`
 
-### 📊 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abdulhadi446/Abdulhadi446/output/github-contribution-grid-snake.svg" />
-</p>
-
 ### 📫 Reach me
 
 [thetrillioniar.me](https://thetrillioniar.me) &nbsp;|&nbsp; [Portfolio](https://abdulhadi-sodeom.netlify.app/) &nbsp;|&nbsp; [HuggingFace: thetrillioniar](https://huggingface.co/thetrillioniar)
