@@ -60,6 +60,7 @@ I'm strongest where applied AI meets platform engineering:
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![OpenAI SDK](https://img.shields.io/badge/OpenAI%20SDK-412991?style=flat-square&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square)
+
 `LLaMA-Factory` `TRL` `DeepSpeed` `openbench` `Quantization` `Distillation`
 
 **Infrastructure & Hosting**
