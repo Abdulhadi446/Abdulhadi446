@@ -27,7 +27,7 @@ I'm strongest where applied AI meets platform engineering:
 - 📊 **Model evaluation:** benchmarking open-weight models with repeatable pipelines
 - 🤖 **Agentic systems:** multi-agent orchestration in Python/FastAPI
 - 🧪 **Model optimization:** quantization and distillation research
-- 🖥️ **Self-hosted infrastructure:** Ubuntu servers, Docker, Cloudflare Tunnel
+- 🖥️ **Self-hosted infrastructure:** Ubuntu servers, Docker, Cloudflare Tunnel, Oracle Cloud
 
 ---
 
@@ -74,6 +74,7 @@ I'm strongest where applied AI meets platform engineering:
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-C74634?style=flat-square&logo=oracle&logoColor=white)
 
 `SearXNG`
 
