@@ -47,6 +47,7 @@ I'm strongest where applied AI meets platform engineering:
 | **[Porsche 911 Showcase](https://github.com/Abdulhadi446/porsches)** | Fan site covering every 911 generation: 161 spec'd variants, 179 prerendered routes, WebGL hero, media on Cloudflare R2 (live demo being rehosted) | Next.js, React Three Fiber, GSAP, Cloudflare R2 | 🔵 Open source · [Repo](https://github.com/Abdulhadi446/porsches) |
 | **[HCM Lite](https://github.com/Abdulhadi446/hcm-lite)** | AI-assisted HCM built at the Saylani Hackathon (Oct 2026): tool-calling AI over its own SQLite DB, 18/18 E2E tests | Python, AI tool-calling, SQLite | 🔵 Open source |
 | **[Aura Counter](https://auracounter.sodeom.com)** | Satirical Sodeom side project with a full account system: signup, login/logout, sessions, cookies and email | Web backend, auth, email | 🟢 Live |
+| **[Image Collector (Vista Cars)](https://vistacars.thetrillioniar.me)** | LangGraph agent that picks a car a day, harvests its photoshoot, has Gemma-4 rank candidates by "aura", then auto-commits images to GitHub, updates the gallery site and posts a carousel to [Instagram](https://www.instagram.com/vistacarz/) | Python, LangGraph, Flask, Gemma-4, Make.com | 🟢 Live · [Repo](https://github.com/Abdulhadi446/image-collector) |
 
 ---
 
@@ -65,7 +66,7 @@ I'm strongest where applied AI meets platform engineering:
 ![OpenAI SDK](https://img.shields.io/badge/OpenAI%20SDK-412991?style=flat-square&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square)
 
-`LLaMA-Factory` `TRL` `DeepSpeed` `openbench` `Quantization` `Distillation`
+`LLaMA-Factory` `TRL` `DeepSpeed` `openbench` `LangGraph` `Quantization` `Distillation`
 
 **Infrastructure & Hosting**
 
