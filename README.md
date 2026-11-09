@@ -35,13 +35,17 @@ I'm strongest where applied AI meets platform engineering:
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
-| **[Trillionir AI](https://trillionir.ai)** | Flat-rate LLM inference API with OpenAI/Anthropic-compatible routing, built for developers who need an API that just works and never returns an "out of credits" error | Python, OpenAI SDK, API routing | 🟢 Live |
+| **[Trillionir AI](https://thetrillioniar.me)** | Flat-rate LLM inference API with OpenAI/Anthropic-compatible routing, built for developers who need an API that just works and never returns an "out of credits" error | Python, OpenAI SDK, API routing | 🟢 Live |
 | **[Sodeom](https://sodeom.com)** | Privacy-first search engine. Also hosts an OpenAI-compatible proxy endpoint (`sodeom.com/v1`) used across my other projects | SearXNG, Python | 🟢 Live |
 | **TriMind** | Open-source research on LLM quantization and distillation, centered on Qwen3-8B (FP32 / INT4 / INT2 / Q2_K / BitNet comparisons), with quantized models published on Hugging Face | PyTorch, Transformers, LLaMA-Factory, TRL, DeepSpeed | 🟢 Published on [Hugging Face](https://huggingface.co/thetrillioniar) |
-| **[Model Evaluation Pipeline](https://social.thetrillioniar.me/)** | Benchmarks open-weight models (Gemma, Devstral, Rnj-1, SmolLM and more) through a custom OpenAI-compatible endpoint | `openbench`, Python, Ubuntu | 🟡 Ongoing |
+| **[Model Evaluation Pipeline](https://social.thetrillioniar.me/)** | Benchmarks open-weight models (Gemma 4 31B, Devstral 24B, Rnj-1 8B, SmolLM 135M and more) through a custom OpenAI-compatible endpoint, with published MMLU / MMLU-Pro / coding / GSM8K scores | `openbench`, Python, Ubuntu | 🟡 Ongoing |
+| **[Fine-tuning Datasets](https://huggingface.co/thetrillioniar)** | Claude/OpenAI fine-tuning dataset (29 datasets → OpenAI JSONL, ~1.5M rows, 1,100+ downloads/mo) and Mythos-5 / Fabel-5 model outputs | Hugging Face, JSONL | 🟢 Published |
 | **TriageDesk** | Multi-agent customer support orchestrator with a custom `BaseAgent` framework built directly on the OpenAI SDK. Previously self-hosted behind a Cloudflare Tunnel | Python, FastAPI, OpenAI SDK | ⚪ Not currently deployed |
-| **[Blog Pipeline](https://blogs.thetrillioniar.me)** | AI-powered cron system that auto-writes and publishes posts, with MCP-driven web search, model selection and a newsletter | Python, MCP, cron | 🟢 Live |
-| **[Porsche 911 Showcase](https://porsches-rho.vercel.app)** | Fan site covering every 911 generation, with media served from Cloudflare R2 | Next.js, Vercel, Cloudflare R2 | 🟢 Live · [Repo](https://github.com/Abdulhadi446/porsches) |
+| **[Blog Pipeline](https://blogs.thetrillioniar.me)** | AI-powered cron system that auto-writes and publishes posts (100+ articles, 87 topics), with MCP-driven web search, model selection and a newsletter | Python, MCP, cron | 🟢 Live |
+| **[chat-to-video](https://github.com/Abdulhadi446/chat-to-video)** | Describe a video, get a rendered MP4: LLM storyboard → deterministic FFmpeg renderer → Piper narration, with a difficulty router that hands hard jobs to an autonomous agent | Python, FFmpeg, LLM routing | 🔵 Open source · hackathon build |
+| **[paperclip](https://github.com/Abdulhadi446/paperclip)** | Chat → PDF: the model writes HTML, renders real A4 pages, streams a PDF; attach PDF/Word/MD/CSV to edit them | Python, headless Chrome, Playwright | 🔵 Open source · hackathon build |
+| **[Porsche 911 Showcase](https://github.com/Abdulhadi446/porsches)** | Fan site covering every 911 generation: 161 spec'd variants, 179 prerendered routes, WebGL hero, media on Cloudflare R2 (live demo being rehosted) | Next.js, React Three Fiber, GSAP, Cloudflare R2 | 🔵 Open source · [Repo](https://github.com/Abdulhadi446/porsches) |
+| **[HCM Lite](https://github.com/Abdulhadi446/hcm-lite)** | AI-assisted HCM built at the Saylani Hackathon (Oct 2026): tool-calling AI over its own SQLite DB, 18/18 E2E tests | Python, AI tool-calling, SQLite | 🔵 Open source |
 | **[Aura Counter](https://auracounter.sodeom.com)** | Satirical Sodeom side project with a full account system: signup, login/logout, sessions, cookies and email | Web backend, auth, email | 🟢 Live |
 
 ---
@@ -95,7 +99,7 @@ I'm strongest where applied AI meets platform engineering:
 
 - Running and improving **Trillionir AI** and **Sodeom**
 - Extending the model evaluation pipeline and publishing results
-- Looking for **remote AI / ML engineering, applied AI and agent infrastructure** roles
+- Looking for **remote AI / ML engineering, applied AI and agent infrastructure** roles (7-day notice period)
 
 ---
 
@@ -109,6 +113,8 @@ I'm strongest where applied AI meets platform engineering:
 | 🗂️ Portfolio | [abdulhadi-sodeom.netlify.app](https://abdulhadi-sodeom.netlify.app/) |
 | 🤗 Hugging Face | [huggingface.co/thetrillioniar](https://huggingface.co/thetrillioniar) |
 | 🐙 GitHub | [github.com/Abdulhadi446](https://github.com/Abdulhadi446) |
+| 🎮 itch.io | [abdulahdi.itch.io](https://abdulahdi.itch.io) |
+| 📝 Blog | [blogs.thetrillioniar.me](https://blogs.thetrillioniar.me) |
 
 <div align="center">
 
